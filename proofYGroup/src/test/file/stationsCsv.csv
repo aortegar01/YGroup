@@ -1,0 +1,520 @@
+n,s,totalSize
+6001,Hotel-de-Ville 2 (du Champs-de-Mars / Gosford),15
+6002,Ste-Catherine / Dezery,12
+6003,Clark / Evans,8
+6004,Hotel-de-Ville (du Champs-de-Mars / Gosford),26
+6006,18e avenue / Rosemont,14
+6007,de l'Hotel-de-Ville / Ste-Catherine,1
+6008,Sanguinet / Ste-Catherine,17
+6009,Ste-Catherine / Labelle,4
+6901,Ste-Catherine / St-Denis,5
+6011,St-Andre / St-Antoine,11
+6012,Metro St-Laurent (de Maisonneuve / St-Laurent),36
+6013,Sanguinet / de Maisonneuve,10
+6014,St-Denis / de Maisonneuve,7
+6015,Berri / de Maisonneuve,14
+6016,Jacques-Le Ber / de la Pointe Nord,8
+6017,du Square Ahmerst / Wolfe,2
+6018,St-Andre / Ontario,18
+6019,Berri / Sherbrooke,18
+6020,Sanguinet / Ontario,4
+6902,Beaudry / Ontario,3
+6023,de la Commune / Berri,13
+6024,Messier / Hochelaga,2
+6026,de la Commune / Place Jacques-Cartier,12
+6027,de Maisonneuve / Mansfield,19
+6029,Bel Air / St-Antoine,5
+6031,St-Antoine / St-François-Xavier,10
+6032,Metro Place-d'Armes (Viger / St-Urbain),17
+6034,St-Urbain / Rene-Levesque,8
+6036,de la Commune / St-Sulpice,20
+6038,McGill / Place d'Youville,22
+6040,St-Jacques / St-Pierre,19
+6041,St-Jacques / Gauvin,21
+6042,de la Gauchetiere / Robert-Bourassa,10
+6043,Square Victoria,2
+6044,Roy / St-Christophe,13
+6046,Metro Bonaventure (de la Gauchetiere / Mansfield),14
+6204,Milton / Durocher,27
+6048,Queen / Ottawa,19
+6049,Queen / Wellington,29
+6050,de la Commune / McGill,16
+6051,de Gaspe / Marmier,9
+6052,de la Commune / King,39
+6058,Cypress / Peel,17
+6059,Metcalfe / Ste-Catherine,23
+6060,Mansfield / Rene-Levesque,10
+6061,Ste-Catherine / McGill College,24
+6062,Drummond / Ste-Catherine,4
+6063,Drummond / de Maisonneuve,3
+6064,Metro Peel (de Maisonneuve / Stanley),33
+6065,de la Montagne / Sherbrooke,16
+6067,de Maisonneuve / Robert-Bourassa,16
+6068,Mansfield / Sherbrooke,19
+6073,de Maisonneuve / Aylmer,5
+6076,Ville-Marie / Ste-Catherine,5
+6078,Metro Place-des-Arts (de Maisonneuve / de Bleury),53
+6081,St-Alexandre / Ste-Catherine,18
+6082,6e avenue / Rosemont,10
+6083,Square Phillips,11
+6084,Lambert-Closse / Tupper,7
+6085,Notre-Dame / Peel,23
+6090,Metro Lucien-L'Allier (Lucien l'Allier / Argyle),0
+6091,Joseph-Manceau / Rene-Levesque,6
+6092,Crescent / Rene-Levesque,12
+6912,de Chateaubriand / Beaubien,23
+6194,Tupper / Atwater,16
+6095,Chomedey / de Maisonneuve,14
+6096,Lucien L'Allier / St-Jacques,5
+6098,Bishop / Ste-Catherine,7
+6099,Crescent / de Maisonneuve,11
+6100,Mackay / de Maisonneuve,39
+6101,Metro Villa-Maria (Decarie / de Monkland),16
+6102,Lincoln / du Fort,9
+6103,Lesperance / de Rouen,8
+6104,Wolfe / Rene-Levesque,19
+6105,Plessis / Rene-Levesque,11
+6106,Papineau / Rene-Levesque,9
+6107,St-Mathieu /Ste-Catherine,15
+6108,Logan / Fullum,9
+6109,Quai de la navette fluviale,6
+6110,Poupart / Ste-Catherine,4
+6111,Parthenais / Ste-Catherine,7
+6112,Montcalm / de Maisonneuve,5
+6113,Alexandre-DeSeve / de Maisonneuve,2
+6114,Metro Papineau (Cartier / Ste-Catherine),5
+6115,Benny / de Monkland,5
+6116,Plessis / Ontario,8
+6117,Robin / de la Visitation,2
+6118,de Champlain / Ontario,10
+6119,Dorion / Ontario,1
+6120,Ontario / du Havre,15
+6121,Gascon / de Rouen,0
+6123,Alexandre-de-Seve / la Fontaine,2
+6124,Poupart / Ontario,11
+6125,Ellendale / Cote-des-Neiges,16
+6126,Rouen / Fullum,6
+6127,Henri-Julien / de Castelnau,7
+6128,Hogan / Ontario,1
+6130,Sherbrooke / Frontenac,4
+6131,Fullum / Sherbrooke ,20
+6133,Terrasse Mercure / Fullum,6
+6129,de Bordeaux / Sherbrooke,7
+6202,Ste-Famille / Sherbrooke,14
+6079,Hutchison/ Prince-Arthur,16
+6022,Angus (Molson / William-Tremblay),23
+6093,Atwater / Sherbrooke,11
+6913,Drolet / Beaubien,7
+6915,Alma / Beaubien,7
+6916,Parc du Pelican (2e avenue / St-Joseph),7
+6918,9e avenue / Dandurand,3
+6923,Marquette / Jean-Talon,13
+6925,Louis-Hebert / Jean-Talon,12
+6072,Metcalfe / de Maisonneuve,24
+6075,University / des Pins,12
+6134,Gascon / Rachel,4
+6132,Lariviere / de Lorimier,5
+6136,Metro Laurier (Rivard / Laurier),9
+6137,Gauthier / Papineau,3
+6138,Gauthier / De Lorimier,0
+6139,des erables / Gauthier,8
+6140,Marquette / Rachel,4
+6141,de Bordeaux / Rachel,15
+6142,Calixa-Lavallee / Rachel,10
+6143,Rachel / de Brebeuf,1
+6145,du Parc-La Fontaine / Duluth,9
+6146,du Parc-La Fontaine / Roy,5
+6147,Calixa-Lavallee / Sherbrooke,21
+6148,emile-Duploye / Sherbrooke,14
+6149,Chapleau / du Mont-Royal,20
+6150,Messier / du Mont-Royal,10
+6151,Parthenais / Mont-Royal,14
+6152,Chabot / du Mont-Royal,3
+6153,Cartier / Marie-Anne,4
+6154,Marquette / du Mont-Royal,1
+6155,Garnier / du Mont-Royal,0
+6156,Marie-Anne / de la Roche,0
+6157,de la Roche / du Mont-Royal,16
+6158,Gilford / de Brebeuf,4
+6159,Ann / William,3
+6160,Garnier / St-Joseph,8
+6161,Cartier / St-Joseph,0
+6162,Fullum / St-Joseph,12
+6163,Marquette / Laurier,12
+6164,Chambord / Laurier,3
+6165,de Brebeuf / Laurier,3
+6166,de Brebeuf / St-Gregoire,10
+6167,Marquette / St-Gregoire,4
+6168,Marmier / St-Denis,13
+6169,Boyer / du Mont-Royal,12
+6170,de Mentana / Laurier,18
+6171,Wolfe / Robin,2
+6173,Berri / Cherrier,26
+6174,Roy / St-Denis,11
+6175,St-Andre / Cherrier,17
+6176,St-Andre / Duluth,12
+6177,St-Hubert / Rachel,6
+6178,Rivard / Rachel,14
+6179,Duluth / St-Denis,3
+6181,Clark / Rachel,20
+6182,de Bullion / du Mont-Royal,15
+6183,Henri-Julien / du Mont-Royal,0
+6184,Metro Mont-Royal (Rivard / du Mont-Royal),20
+6185,des erables / Belanger,3
+6186,St-Andre / Laurier,15
+6188,Mentana / Marie-Anne,8
+6189,Chabot / Everett,7
+6190,Pontiac / Gilford,20
+6191,St-Zotique / Clark,14
+6192,Berri / St-Gregoire,12
+6193,de l'Esplanade / Fairmount,1
+6094,de Gaspe / Fairmount,12
+6195,de Bullion / St-Joseph,18
+6196,Villeneuve / St-Laurent,11
+6197,de Bordeaux / Masson,11
+6198,Helene-Baillargeon / St-Denis,11
+6199,Clark / St-Viateur,2
+6200,St-Dominique / Maguire,18
+6201,Villeneuve / de l'Hotel-de-Ville,5
+6203,Hutchison / Sherbrooke,16
+6205,Milton / du Parc,10
+6206,Prince-Arthur / du Parc,30
+6207,Ste-Famille / des Pins,14
+6208,Hutchison / des Pins,14
+6209,Milton / Clark,4
+6210,Metro Sauve (Sauve / Berri),13
+6211,Roy / St-Laurent,14
+6212,Duluth / de l'Esplanade,9
+6213,Duluth / St-Laurent,1
+6214,Square St-Louis,33
+6215,St-Cuthbert / St-Urbain,9
+6216,Parc Jeanne Mance (monument a sir George-etienne Cartier),24
+6217,Vallieres / St-Laurent,11
+6219,de l'Hotel-de-Ville / Roy,12
+6220,Laval / Duluth,5
+6221,du Mont-Royal / Clark,9
+6222,Jeanne Mance / du Mont-Royal,7
+6223,du Mont-Royal / du Parc,21
+6224,Villeneuve / du Parc,5
+6225,Villeneuve / St-Urbain,3
+6226,Hopital Maisonneuve-Rosemont (Rosemont / Chatelain),23
+6227,de l'Esplanade / Laurier,15
+6229,Coloniale / du Mont-Royal,6
+6230,Waverly / Fairmount,3
+6231,Jeanne-Mance / St-Viateur,13
+6234,Bernard / Clark,8
+6235,St-Dominique / St-Viateur,27
+6236,Laurier / de Bordeaux,6
+6237,de Lanaudiere / Gilford,3
+6903,Napoleon /  St-Dominique,13
+6924,de Bordeaux / Jean-Talon,5
+6240,Hudson / de Kent,14
+6241,Hutchison / Fairmount,11
+6243,Bloomfield / Bernard,11
+6245,Bloomfield / Van Horne,4
+6246,Metro Outremont (Wiseman / Van Horne),3
+6247,St-Dominique / St-Zotique,15
+6248,St-Dominique / Rachel,22
+6249,Belanger / St-Denis,9
+6250,Marche Jean-Talon (Henri-Julien / Jean-Talon),14
+6251,de Gaspe / Dante,12
+6252,Mozart / St-Laurent,4
+6253,Berri / Jean-Talon,6
+6254,Boyer / Belanger,12
+6255,Boyer / St-Zotique,8
+6257,de St-Vallier / St-Zotique,9
+6258,Parc Pere-Marquette (Chambord / Rosemont),19
+6259,Dandurand / de Lorimier,17
+6260,Dandurand / Papineau,9
+6261,Louis Hemon / Rosemont,8
+6262,de la Roche /  de Bellechasse,0
+6263,de Hampton / de Monkland,6
+6264,Chabot / de Bellechasse,8
+6265,Parthenais / St-Joseph,2
+6266,Louis-Hebert / Belllechasse,10
+6267,de Bordeaux / Beaubien,2
+6268,Chambord / Beaubien,8
+6269,Bercy / Ontario,10
+6270,Fabre / St-Zotique,8
+6271,Casgrain / de Bellechasse,5
+6272,Chabot / St-Zotique,9
+6273,Cartier / Belanger,17
+6274,de la Roche / St-Joseph,5
+6275,Chambord / Jean-Talon,4
+6276,Chambord / Belanger,8
+6278,Louis-Hebert / St-Zotique,12
+6279,Louis-Hebert / Belanger,11
+6904,Fabre / Beaubien,9
+6905,Parc Rosemont (Dandurand / d'Iberville),19
+6906,Metro Rosemont (Rosemont / de St-Vallier),25
+6907,Boyer / Rosemont,4
+6908,de Bellechasse / de St-Vallier,8
+6921,Augustin-Cantin / Shearer,12
+6926,Marie-Anne / St-Hubert,7
+6927,edouard-Montpetit / Stirling,16
+6928,Jean-Brillant / McKenna,20
+6228,Waverly / Van Horne,7
+6232,Hutchison / Van Horne,19
+6233,Bernard / Jeanne-Mance,17
+6917,Basile-Routhier / Chabanel,8
+6919,10e Avenue / Rosemont,3
+6086,Murray / William,2
+6087,Notre-Dame / de la Montagne,9
+6088,Guy / Notre-Dame,5
+6277,Elsdale / Louis-Hebert,15
+6280,Fairmount / St-Dominique,4
+10002,Metro Charlevoix (Centre / Charlevoix),1
+6401,des Seigneurs / Workman,0
+6402,Square Sir-Georges-Etienne-Cartier / Ste-emilie,0
+6403,Georges-Vanier / Notre-Dame,0
+6404,Quesnel / Vinet,14
+6405,Duvernay / Charlevoix,4
+6406,Marche Atwater,6
+6407,Charlevoix / Lionel-Groulx,16
+6408,Metro Georges-Vanier (St-Antoine / Canning),7
+6307,Laval / Rachel,7
+6309,5e avenue / de Verdun,1
+6310,de Darlington / de la Cote-Ste-Catherine,22
+6312,de Kent / de la Cote-des-Neiges,20
+6311,Drolet / St-Zotique,5
+6314,de Lanaudiere / Marie-Anne,0
+6315,Metro Cote-des-Neiges (Lacombe / de la Cote-des-Neiges),10
+6316,Gatineau / Swail,18
+6383,Bourbonniere / du Mont-Royal,9
+6385,de Bordeaux /Gilford,11
+6386,Metro Prefontaine (Moreau / Hochelaga),17
+6387,Metro Joliette  (Joliette / Hochelaga),10
+6388,d'Orleans / Hochelaga,6
+6389,Boyer / Jean-Talon,9
+6391,Aylwin / Ontario,3
+6393,Dezery / Ontario,8
+6394,Valois / Ontario,16
+6395,Pierre-de-Coubertin / Aird,26
+6397,Marche Maisonneuve,11
+6323,Guizot / St-Laurent,8
+6327,Faillon / St-Denis,9
+6329,Gounod / St-Denis,15
+6330,de Gaspe / Jarry,2
+6331,Guizot / St-Denis,16
+6332,de Gaspe / de Liege,10
+6333,Leman / de Chateaubriand,5
+6334,d'Outremont / Ogilvy,0
+6335,du Rosaire / St-Hubert,4
+6336,Faillon / St-Hubert,8
+6338,Ball / Querbes,8
+6340,de la Roche / Everett,5
+6341,Regina / de Verdun,0
+6343,Marquette / Villeray,3
+6345,Louis-Hemon / Villeray,10
+6347,Metro St-Michel (Shaughnessy / St-Michel),3
+6349,Ryde / Charlevoix,5
+6350,Island / Centre,7
+6322,St-Dominique / Gounod,4
+6324,de Liege / Lajeunesse,6
+6328,Henri-Julien / Villeray,3
+6354,Marcil / Sherbrooke,13
+6355,Ontario / Sicard,3
+6356,de Monkland / Girouard,10
+6357,12e avenue / St-Zotique,11
+6358,1ere  avenue /St-Zotique,7
+6359,Parc Plage,1
+6360,8e avenue / Beaubien,16
+6361,Molson / Beaubien,4
+6362,1ere avenue / Rosemont,9
+6363,de Clifton / Sherbrooke,9
+6364,de Chambly / Rachel,4
+6366,Wilderton  / Van Horne,4
+6367,3e avenue / Dandurand,0
+6368,10e avenue / Masson,14
+6369,West Broadway / Sherbrooke,13
+6370,d'Orleans / Masson,4
+6371,4e avenue / Masson,7
+6372,1ere avenue / Masson,11
+6373,7e avenue / St-Joseph,8
+6374,Laurier / 15e avenue,19
+6375,Metro Place St-Henri (St-Ferdinand / St-Jacques),11
+6376,16e avenue / St-Joseph,6
+6377,Grand Trunk / Hibernia,2
+6379,de l'eglise / Bannantyne,3
+6380,Parc J.-Arthur-Champagne (de Chambly / du Mont-Royal),8
+6381,Omer-Lavallee / du Midway,2
+6384,Darling / Sherbrooke,4
+6396,Metro Pie-IX (Pierre-de-Coubertin / Pie-IX),16
+6301,Parc Outremont (Bloomfield / Elmwood),7
+6302,Stuart / de la Cote-Ste-Catherine,9
+6303,Dunlop / Van Horne,4
+6304,Rockland / Lajoie,2
+6305,Davaar / de la Cote-Ste-Catherine,12
+6306,du Mont-Royal / Vincent-d'Indy,27
+6321,Gary Carter / St-Laurent,9
+6344,St-Dominique / Jean-Talon,8
+6409,Lionel-Groulx / George-Vanier,3
+6021,de l'Hotel-de-Ville / Sherbrooke,14
+6066,Mansfield / Ste-Catherine,1
+6218,Prince-Arthur / St-Urbain,7
+6501,Metro Jean-Drapeau,14
+6502,Casino de Montreal,4
+6503,Metro Parc  (Ogilvy / Hutchison),20
+6504,La Ronde,3
+6415,Wilson / Sherbrooke,7
+6418,de Vendome / de Maisonneuve,15
+6424,du President-Kennedy / McGill College,14
+6421,Cartier / Rosemont,14
+6416,Notre-Dame-de-Grace / Decarie,5
+6419,Beaucourt / de la Cote-Ste-Catherine,10
+6423,Hopital general juif (de la Cote Ste-Catherine / Legare),10
+6420,Trans Island / Queen-Mary,9
+6422,Fleury / Lajeunesse,6
+6410,Metro Cremazie (Cremazie / Lajeunesse),10
+6412,Complexe sportif Claude-Robillard (emile-Journault),11
+6413,Cathcart / Union,6
+6414,Laporte / St-Antoine,4
+6425,Ross / de l'eglise,7
+6426,Metro Verdun (Willibrord / de Verdun),15
+6427,Metro Lasalle (de Rushbrooke / Caisse),11
+6429,Place du Commerce,2
+6411,Clark / Prince-Arthur,15
+6428,Berlioz / de l'ile des Soeurs,4
+6281,Resther / St-Joseph,4
+6432,de Maisonneuve / Greene,11
+6433,Hillside / Ste-Catherine,0
+6434,Victoria / de Maisonneuve,10
+6435,Victoria Hall,12
+6436,Cote St-Antoine / Clarke,11
+5002,St-Charles / Montarville,5
+5003,Place Longueuil,9
+5004,St-Charles / Charlotte,6
+5005,St-Charles / St-Sylvestre,9
+5006,College edouard-Montpetit,20
+5007,Metro Longueuil - Universite de Sherbrooke,4
+6929,St-Andre / St-Gregoire,8
+6930,Paul Boutet / des Regrattiers,11
+6700,de la Salle / Ste-Catherine,9
+6701,de Marseille / Viau,7
+6702,Chauveau / de l'Assomption,5
+6703,Jardin Botanique (Pie-IX / Sherbrooke),9
+6704,19e avenue / St-Zotique,11
+6705,5e avenue / Bannantyne,2
+6706,Beatty / de Verdun,0
+6707,Metro Jolicoeur (Drake / de Seve),10
+6708,Place Jean-Paul Riopelle (Viger / de Bleury),5
+6709,Le Caron / Marc-Sauvalle ,0
+6710,de la Roche / Fleury,8
+6711,Alexandra / Waverly,7
+6712,LaSalle / Crawford,12
+6713,30e avenue / St-Zotique,4
+6714,LaSalle / Senecal,8
+6715,Natatorium (LaSalle / Rolland),4
+6716,Francis / Fleury,3
+6717,de Kent / Victoria,11
+6718,Grand Boulevard / Sherbrooke,3
+6719,Park Row O / Sherbrooke,13
+6720,Ontario / Viau,3
+6721,Metro Cadillac (Sherbrooke / de Cadillac),6
+6722,Pierre-de-Coubertin / Louis-Veuillot,10
+6723,26e avenue / Beaubien,11
+6724,Square Sir-Georges-etienne-Cartier / Lea Roback,9
+6725,Metro Monk (Allard / Beaulieu),3
+6726,Hamel / Sauve,8
+6727,de Montmorency / Richardson,12
+6728,Champagneur / Jean-Talon,7
+6729,St-Andre / Ste-Catherine,10
+6730,35e avenue / Beaubien,9
+6733,Rousselot / Villeray,2
+6732,Fortune / Wellington,2
+6731,28e avenue / Rosemont,11
+6734,Lajeunesse / Villeray (place Tapeo),7
+6736,Basile-Routhier / Gouin,8
+6737,Jacques-Casault / Christophe-Colomb,7
+6735,François-Perrault / L.-O.-David,4
+6739,de Repentigny / Sherbrooke,5
+6741,Notre-Dame / Chatham,12
+6742,Briand / le Caron,15
+6743,St-Marc / Sherbrooke,16
+6744,Hamilton / Jolicoeur,1
+6745,Cathcart / Place Phillips,36
+6746,Metro Acadie (de l'Acadie / Beaumont),8
+6747,Waverly / St-Zotique,10
+6748,Young / Wellington,10
+6749,St-Jacques / St-Laurent,6
+6750,des erables / Rachel,17
+6752,Hutchison / Beaubien,16
+6753,St-Zotique / 39e avenue,8
+6754,Eadie / Dubois,1
+7001,Ste-Catherine / Ste-elisabeth,1
+7002,Tolhurst / Fleury,5
+7003,St-Charles / Sauve,9
+7004,emile-Journault / de Chateaubriand,9
+7006,Clark / Fleury,5
+7007,Gare Canora,6
+7008,Rousselot / Jarry,8
+7009,CHSLD Benjamin-Victor-Rousselot (Dickson / Sherbrooke),3
+7010,Belmore / Sherbrooke,3
+7011,Girouard / de Terrebonne,7
+7012,McKenna / edouard-Montpetit,11
+7013,Benny Crescent / Benny,9
+7014,edouard-Montpetit (Universite de Montreal),10
+7015,LaSalle / 4e avenue,8
+7016,Metro Langelier (Sherbrooke / Langelier),2
+7017,Bennett / Ste-Catherine,2
+7018,Joliette / Ste-Catherine,5
+7019,Jeanne d'Arc / Ontario,15
+7020,St-Germain / Hochelaga,0
+7021,McEachran / Van Horne,7
+7022,Durocher / Bernard,11
+7023,CHSLD St-Michel (Jarry / 8e avenue),9
+7024,Berri / Gilford,11
+7042,Alexandra / Jean Talon,8
+7025,St-Dominique / Bernard,12
+7026,Maguire / Henri-Julien,19
+7027,Terrasse Guindon / Fullum,5
+7028,de Gaspe / St-Viateur,15
+7029,Cartier / Masson,1
+7030,de Bordeaux / Marie-Anne,1
+7031,Berri / Rachel,8
+7032,Drolet / Laurier,14
+7033,Aylmer / Prince-Arthur,13
+7034,Clark / Laurier,1
+7035,Fullum / Gilford,9
+7037,Prince-Arthur / Ste-Famille,6
+7039,du Mont-Royal / Augustin-Frigon,7
+7040,St-Urbain / Beaubien,7
+7041,15e avenue / Masson,9
+7043,Ernest-Gendreau / du Mont-Royal,9
+7044,Hopital Santa Cabrini (St-Zotique / Jeanne-Jugan),8
+7045,Casgrain / Mozart,10
+7046,15e avenue / Dandurand,7
+7048,Metro Angrignon,12
+7049,Ottawa / St-Thomas,4
+7050,Ottawa / William,4
+7051,Jogues / Allard,5
+7052,Shearer / Centre,6
+7053,Ropery / Augustin-Cantin,1
+7054,Cote St-Paul / St-Ambroise,8
+7055,Greene / Workman,9
+7056,Godin / Bannantyne,5
+7057,2e avenue / Wellington,2
+7058,Gordon / Wellington,9
+7059,Argyle / Bannantyne,7
+7060,de l'eglise / de Verdun,4
+7061,Lajeunesse / de Castelnau,12
+7062,Nazareth / William,2
+7063,Henri-Julien / Jarry,9
+7064,Clark / de Liege,14
+7065,de Lanaudiere / Belanger,4
+7066,St-Urbain / de la Gauchetiere,10
+7067,City Councillors / du President-Kennedy,8
+7068,Basin / Richmond,2
+7069,Union / President-Kennedy,14
+7070,Bourgeoys / Favard,19
+7071,St-Mathieu / Sherbrooke,8
+7072,Beaudry / Sherbrooke,3
+7073,Logan / de Champlain,0
+7074,St-Andre / Robin,5
+7075,CHSLD eloria-Lepage (de la Pepiniere / de Marseille),5
+7076,Tupper / du Fort,4
+7077,Fullum / Jean Langlois,1
+7078,Hochelaga / Chapleau,0
+7079,Gauvin / Notre-Dame,24
+7080,President-Kennedy / Robert Bourassa,14
+7081,Lincoln / Lambert Closse,12
